@@ -1,6 +1,6 @@
 Design engineer with over 15 years of experience building productivity software across web, macOS, and iOS.
 
-I work at the intersection of design and engineering: architecture, UI systems, design details and shipping product. Currently at [Beside](https://beside.com/) building cross-platform AI applications in SwiftUI, React, Electron, and Rust. Previously led the design system and technical rewrite at [Kosmik](https://kosmik.app), and built the core Web Capture feature at [Beam](https://beamapp.co).
+I work at the intersection of design and engineering: architecture, UI systems, design details and shipping product. Currently at [Beside](https://beside.com/) building cross-platform AI applications in SwiftUI, React, Electron, and Rust. Previously led the design system and technical rewrite at [Kosmik](https://kosmik.app), and built the core Web Capture feature at [Beam](https://github.com/beamlegacy/beam).
 
 ## What I work on
 
