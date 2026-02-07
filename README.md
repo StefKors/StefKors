@@ -1,13 +1,27 @@
-# Design Engineer
+Design engineer with over 15 years of experience building productivity software across web, macOS, and iOS.
 
-I design and build desktop tools that help people think, work, and create better. My work sits at the intersection of product design and engineering — where beautiful interfaces meet high-performance code. I work across platforms with years of experience in Swift, SwiftUI, TypeScript, React and Vue.
+I work at the intersection of design and engineering: architecture, UI systems, design details and shipping product. Currently at [Beside](https://beside.com/) building cross-platform AI applications in SwiftUI, React, Electron, and Rust. Previously led the design system and technical rewrite at [Kosmik](https://kosmik.app), and built the core Web Capture feature at [Beam](https://beamapp.co).
 
-I’m passionate about crafting productivity apps and tools that feel intuitive, fast, and thoughtfully designed. Recent projects explore topics like [visual note-taking](https://www.kosmik.app/), [web browsers](https://stefkors.com/beam-browser/), and [AI interfaces](https://interfaceai.com/).
-- Building native tools in SwiftUI, with an eye for UX detail
-- Focused on bridging design systems, native UI, and web technologies
-- Creator of [Commitment](https://stefkors.com/commitment/), [Affability](https://stefkors.com/affability/), and [other desktop productivity experiments](https://github.com/StefKors/GitLab)
-- Based in The Hague, Netherlands
+## What I work on
 
+- **Cross-platform product engineering**: Shipping apps for desktop and mobile with Swift, SwiftUI, React, Rust and more
+- **Designing Productivity Tools**: Crafting user experiences down to the details with quality and speed
+- **Design systems**: Building component libraries, establishing standards, and maintaining consistency across products
+- **Developer tools**: Native macOS utilities and productivity apps, mostly in SwiftUI
+- **AI interfaces**: Live transcription, agentic meeting capture, conversational UI
+
+## Selected projects
+
+- **[Commitment](https://github.com/StefKors/Commitment)**: Native macOS Git client, 100% SwiftUI
+- **[GitLab Widget](https://github.com/StefKors/GitLab)**: Menu bar app for GitLab merge requests, CI status, and review tracking
+- **[Affability](https://github.com/StefKors/Affability)**: Screen color picker to SwiftUI color code on your clipboard
+- **[Statement](https://github.com/StefKors/Statement)**: macOS image editor with LUT filter support
+
+## Stack
+
+Swift · SwiftUI · TypeScript · React · Rust · CSS · HTML · Node.js · Astro · Electron · Tauri · WebKit
+
+## More
 🔗 [stefkors.com](https://stefkors.com/) · [LinkedIn](https://www.linkedin.com/in/stefkors/) · [email](mailto:stef.kors@gmail.com)
 
 ## Beam
